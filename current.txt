@@ -1,0 +1,23 @@
+code/fz_subscription_service/invoice.rb
+                             show_invoice_pdf_command.rb
+docker
+./bin/fzub
+
+Publisher info i Publisher collection
+Readly info i invoice.yml se invoice_pdf_base.rb
+
+use readly
+db.dropDatabase()
+db.cloneDatabase("mongodb1.dev.readly.com")
+mongodump
+mongorestore
+
+RACK_ENV="development"
+bundle exec rake pry
+
+Göra en branch git och checka in mot:
+git pull // Hämta det senaste
+git checkout -B foo // Skapa en branch med namnet foo
+git commit -m 'bar' // Committa ändringar
+git push // Kommer få meddelande att branchen inte finns remote, gör som meddelandet säger
+

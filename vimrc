@@ -23,6 +23,10 @@ if &term == "xterm" || &term == "screen-bce"
   colorscheme zenburn
 endif
 
+if &term == "screen-256color"
+  colorscheme zenburn
+endif
+
 if has("autocmd")
   filetype plugin indent on
 endif

@@ -30,3 +30,10 @@ endif
 if has("autocmd")
   filetype plugin indent on
 endif
+
+let g:airline#extensions#tabline#buffer_nr_show = 1
+let g:airline#extensions#tabline#enabled = 1
+
+map gn :bn<cr>
+map gp :bp<cr>
+map gd :bd<cr>

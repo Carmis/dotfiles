@@ -3,22 +3,22 @@
 	url = https://github.com/tpope/vim-fugitive.git
 [submodule "bundle/vim-ruby"]
 	path = bundle/vim-ruby
-	pathurl = git://github.com/vim-ruby/vim-ruby.git
+	url = git://github.com/vim-ruby/vim-ruby.git
 [submodule "bundle/nerdtree"]
-	pathurlpath = bundle/nerdtree
-	pathurlpathurl = https://github.com/scrooloose/nerdtree.git
+	path = bundle/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
 [submodule "bundle/supertab"]
-	pathurlpathurlpath = bundle/supertab
-	pathurlpathurlpathurl = https://github.com/ervandew/supertab.git
+	path = bundle/supertab
+	url = https://github.com/ervandew/supertab.git
 [submodule "bundle/airline"]
-	pathurlpathurlpathurlpath = bundle/airline
-	pathurlpathurlpathurlpathurl = https://github.com/bling/vim-airline.git
+	path = bundle/airline
+	url = https://github.com/bling/vim-airline.git
 [submodule "bundle/tagbar"]
-	pathurlpathurlpathurlpathurlpath = bundle/tagbar
-	pathurlpathurlpathurlpathurlpathurl = https://github.com/majutsushi/tagbar.git
+	path = bundle/tagbar
+	url = https://github.com/majutsushi/tagbar.git
 [submodule "bundle/zenburn"]
-	pathurlpathurlpathurlpathurlpathurlpath = bundle/zenburn
-	pathurlpathurlpathurlpathurlpathurlpathurl = https://github.com/jnurmine/Zenburn.git
+	path = bundle/zenburn
+	url = https://github.com/jnurmine/Zenburn.git
 [submodule "bundle/vim-tmux-navigator"]
 	path = bundle/vim-tmux-navigator
 	url = https://github.com/christoomey/vim-tmux-navigator.git

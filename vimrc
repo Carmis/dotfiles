@@ -60,4 +60,4 @@ let mapleader=","
 
 map gn :bn<cr>
 map gp :bp<cr>
-map gd :bd<cr>
+map gf :bd<cr>

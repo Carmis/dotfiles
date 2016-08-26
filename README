@@ -13,4 +13,4 @@ Create symlinks:
 	ln -s ~/.vim/vimrc ~/.vimrc
 	ln -s ~/.vim/gvimrc ~/.gvimrc
 
-
+Get bash color scheme from https://github.com/gnumoksha/gnome-terminal-colors

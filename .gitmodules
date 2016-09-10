@@ -38,3 +38,6 @@
 [submodule "bundle/vim-go"]
 	path = bundle/vim-go
 	url = https://github.com/fatih/vim-go.git
+[submodule "bundle/vim-qml"]
+	path = bundle/vim-qml
+	url = https://github.com/peterhoeg/vim-qml.git

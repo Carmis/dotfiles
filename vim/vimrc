@@ -28,12 +28,12 @@ syntax on
 
 if &term == "xterm" || &term == "screen-bce"
   set t_Co=256
-  colorscheme zenburn
+"  colorscheme zenburn
 endif
 
-if &term == "screen-256color"
-  colorscheme zenburn
-endif
+"if &term == "screen-256color"
+"  colorscheme zenburn
+"endif
 
 if has("autocmd")
   filetype plugin indent on
